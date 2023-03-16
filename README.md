@@ -3,6 +3,8 @@
 This repo is a simple KiCAD template for Adafruit Feather Wings Specification.
 Use it to quickly get started with the standard layout for Feather Wings to build your own sensor, driver, peripheral, etc. Wings.
 
+![board](meta/board.png)
+
 This template is designed for use with [KiCAD 7](https://www.kicad.org/).
 
 ## How to use this template
